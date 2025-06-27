@@ -7,16 +7,22 @@
 - 🔍 Currently exploring **Data Science, System Design, and Application Development**
 - 💡 Skilled in **C++, Python, C#, SQL**, and working with **.NET technologies**
 - 🛠 Comfortable with tools like **Jupyter Notebook**, **Google Colab**, and **Visual Studio**
-- 🌱 Actively contributing to **Open Source** through [Layer5](https://layer5.io) and [Meshery](https://github.com/meshery/meshery)
 - 📚 Passionate about solving real-world problems and building useful software solutions
+- 🤝 Actively contributing to open-source projects, especially [Meshery by Layer5](https://github.com/meshery/meshery)
 
 ---
 
-### 🧑‍💻 Open Source Contributions
+### 🌐 Open Source Contributions
 
-- 🤝 Contributor at [Meshery by Layer5](https://github.com/meshery/meshery) – Working on Meshery Playground designs and documentation
-- 🧩 Created a design on [Meshery Playground](https://playground.meshery.io) *(pending submission to the Meshery Catalog)*
-- 🏅 Earned a [Layer5 Badge](https://badges.layer5.io) *(pending or to be added)*
+- Contributor at [Meshery (Layer5)](https://github.com/meshery/meshery) – working on visual designs and community engagement
+- Engaged in community meetings, Meshery Playground design tasks, and PR submissions
+- Exploring developer tools and improving documentation for new contributors
+
+<!-- Uncomment and update when you get the badge -->
+<!-- ![Layer5 Badge](https://badges.layer5.io/badge-url-here) -->
+
+<!-- Optional design link -->
+<!-- 🧩 [My Meshery Playground Design](https://playground.meshery.io/design/your-design-id) -->
 
 ---
 
@@ -44,4 +50,7 @@
   <a href="https://linkedin.com/in/whozahm3d">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="
+  <a href="https://twitter.com/whozahm3">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+</p>
