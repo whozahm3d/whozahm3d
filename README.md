@@ -8,21 +8,6 @@
 - 💡 Skilled in **C++, Python, C#, SQL**, and working with **.NET technologies**
 - 🛠 Comfortable with tools like **Jupyter Notebook**, **Google Colab**, and **Visual Studio**
 - 📚 Passionate about solving real-world problems and building useful software solutions
-- 🤝 Actively contributing to open-source projects, especially [Meshery by Layer5](https://github.com/meshery/meshery)
-
----
-
-### 🌐 Open Source Contributions
-
-- Contributor at [Meshery (Layer5)](https://github.com/meshery/meshery) – working on visual designs and community engagement
-- Engaged in community meetings, Meshery Playground design tasks, and PR submissions
-- Exploring developer tools and improving documentation for new contributors
-
-<!-- Uncomment and update when you get the badge -->
-<!-- ![Layer5 Badge](https://badges.layer5.io/badge-url-here) -->
-
-<!-- Optional design link -->
-<!-- 🧩 [My Meshery Playground Design](https://playground.meshery.io/design/your-design-id) -->
 
 ---
 
