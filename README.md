@@ -7,7 +7,16 @@
 - 🔍 Currently exploring **Data Science, System Design, and Application Development**
 - 💡 Skilled in **C++, Python, C#, SQL**, and working with **.NET technologies**
 - 🛠 Comfortable with tools like **Jupyter Notebook**, **Google Colab**, and **Visual Studio**
+- 🌱 Actively contributing to **Open Source** through [Layer5](https://layer5.io) and [Meshery](https://github.com/meshery/meshery)
 - 📚 Passionate about solving real-world problems and building useful software solutions
+
+---
+
+### 🧑‍💻 Open Source Contributions
+
+- 🤝 Contributor at [Meshery by Layer5](https://github.com/meshery/meshery) – Working on Meshery Playground designs and documentation
+- 🧩 Created a design on [Meshery Playground](https://playground.meshery.io) *(pending submission to the Meshery Catalog)*
+- 🏅 Earned a [Layer5 Badge](https://badges.layer5.io) *(pending or to be added)*
 
 ---
 
@@ -35,7 +44,4 @@
   <a href="https://linkedin.com/in/whozahm3d">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/whozahm3">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
-</p>
+  <a href="
