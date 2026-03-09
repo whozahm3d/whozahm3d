@@ -48,12 +48,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=whozahm3d&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&icon_color=D4AF37&text_color=C0C0C0&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=whozahm3d&hide_border=true&background=0A0A0A&ring=D4AF37&fire=8B0000&currStreakLabel=D4AF37&sideLabels=C0C0C0&dates=666666&stroke=2C2C2C" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=whozahm3d&show_icons=true&hide_border=true&bg_color=161B22&title_color=D4AF37&icon_color=D4AF37&text_color=E6E6E6&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=whozahm3d&hide_border=true&background=161B22&ring=D4AF37&fire=8B0000&currStreakLabel=D4AF37&sideLabels=E6E6E6&dates=A0A0A0&stroke=30363D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whozahm3d&hide_border=true&bg_color=0A0A0A&title_color=D4AF37&text_color=C0C0C0&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whozahm3d&hide_border=true&bg_color=161B22&title_color=D4AF37&text_color=E6E6E6&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
