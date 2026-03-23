@@ -1,178 +1,83 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ali%20Ahmad&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20%7C%20Gen%20AI&descAlignY=58&descSize=18&descFontColor=a0aec0"/>
+# Ali Ahmad
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=7C83FD&center=true&vCenter=true&width=600&lines=BS+Data+Science+%40+FAST+NUCES%2C+Lahore;Building+AI+%26+ML+powered+applications;Exploring+LLMs%2C+RAG+%26+Generative+AI;Turning+data+into+decisions" alt="Typing SVG" />
-</p>
+*BS Data Science @ FAST NUCES, Lahore — building at the intersection of ML, data systems, and applied AI*
 
-<br/>
+**[LinkedIn →](https://linkedin.com/in/whozahm3d)** · **[Linktree →](https://linktr.ee/whozahm3d)**
 
 ---
 
-## 👨‍💻 About Me
+## Currently
 
-```python
-ali = {
-    "education"  : "BS Data Science @ FAST NUCES, Lahore",
-    "focus"      : ["Machine Learning", "Generative AI", "Data Engineering"],
-    "languages"  : ["Python", "C++", "C#", "SQL"],
-    "ai_stack"   : ["LLMs", "RAG", "NLP", "Prompt Engineering", "Explainable AI"],
-    "cloud"      : ["AWS", "Microsoft Azure"],
-    "currently"  : "Building AI-powered apps & exploring data systems"
-}
-```
+**DS Sophomore @ FAST NUCES, Lahore** (2023 - Present)
+
+Studying Data Science with a focus on machine learning, data engineering, and generative AI. Actively building projects that bridge theory with real-world problem solving — from fraud detection systems to data warehouses to AI-powered web apps.
+
+Working across: Python, C++, C#, SQL, PyTorch, Scikit-learn, Streamlit, Power BI, PostgreSQL, AWS, Azure.
 
 ---
 
-## 🧠 Tech Stack
+## Projects
 
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### [TrustGuard — AI Fraud Detection](https://github.com/whozahm3d/trustguard-ai-fraud-detection) (2024 - Present)
 
-#### AI / ML / Data
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
+AI-powered financial fraud detection system built with machine learning and **Explainable AI (SHAP)**. Features a **RAG-based policy assistant** that not only flags suspicious transactions but explains *why* they're flagged — bridging the gap between black-box ML and actionable insight.
 
-#### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
+Stack: Python, Scikit-learn, SHAP, RAG pipeline, Jupyter.
 
-#### Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### [E-Commerce Data Warehouse & Power BI Dashboard](https://github.com/whozahm3d/E-Commerce-Data-Warehouse-Power-BI-Analytics-Dashboard) (2024)
 
----
+End-to-end data warehouse design with a full Power BI analytics dashboard for e-commerce business intelligence. Covers schema design, ETL pipelines, and executive-level reporting — built to simulate a real production BI environment.
 
-## 📊 GitHub Stats
+Stack: SQL Server, Power BI, Data Modeling, ETL.
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=whozahm3d&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00C9A7&icon_color=00C9A7&text_color=c9d1d9&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=whozahm3d&hide_border=true&background=0d1117&ring=00C9A7&fire=F4A261&currStreakLabel=00C9A7&sideLabels=c9d1d9&dates=6e7681"/>
-</p>
+### [Movie Recommendation System](https://github.com/whozahm3d/MovieRecommendationSystem) (2024)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whozahm3d&hide_border=true&bg_color=0d1117&title_color=00C9A7&text_color=c9d1d9&layout=compact&langs_count=8"/>
-</p>
+Data science recommendation engine using clustering, dimensionality reduction, and predictive modeling on TMDB movie metadata. Surfaces personalized picks based on content similarity and user-behavioral patterns.
+
+Stack: Python, Pandas, Scikit-learn, Jupyter Notebook.
+
+### [Mock Examination App](https://github.com/whozahm3d/MockExaminationApp) (2024)
+
+Streamlit-based web platform for students to practice mock tests. Features secure user authentication, randomized exam questions per session, and real-time scoring with feedback. Built with a clean, production-ready UX.
+
+Stack: Python, Streamlit, Authentication, File-based storage.
+
+### [Online Unused Medicine Donation](https://github.com/whozahm3d/Online-Unused-Medicine-Donation) (2023)
+
+A C# Windows Forms application that manages unused medicine donations end-to-end — user authentication, admin approval workflows, inventory tracking, and feedback management. Built to solve a real social problem in a structured, role-based system.
+
+Stack: C#, .NET, Windows Forms, SQL.
+
+### [Flex Management System](https://github.com/whozahm3d/FlexManagementSystem) (2023)
+
+Console-based student course management system in C++ handling enrollment, course validation, and persistent file-based data storage. Clean OOP architecture with modular design.
+
+Stack: C++, OOP, File I/O.
 
 ---
 
-## 🚀 Featured Projects
+## Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Languages** — Python, C++, C#, SQL
 
-### 🔐 TrustGuard — AI Fraud Detection
-AI-powered financial fraud detection using ML, **Explainable AI (SHAP)**, and a **RAG-based policy assistant** to identify and explain suspicious banking transactions.
+**AI / ML** — Scikit-learn, PyTorch, LLMs, RAG, NLP, Prompt Engineering, Explainable AI (SHAP)
 
-`Python` `Scikit-learn` `RAG` `XAI` `Jupyter`
+**Data & BI** — Power BI, Pandas, PostgreSQL, SQL Server, ETL, Data Warehousing
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/whozahm3d/trustguard-ai-fraud-detection)
+**Tools** — Streamlit, Jupyter, VS Code, Google Colab, .NET, Git
 
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommendation System
-Recommendation engine using **clustering**, **dimensionality reduction**, and **predictive modeling** on TMDB metadata to surface personalized movie picks.
-
-`Python` `Pandas` `Scikit-learn` `Jupyter`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/whozahm3d/MovieRecommendationSystem)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 E-Commerce Data Warehouse & BI Dashboard
-End-to-end **data warehouse** design with a **Power BI analytics dashboard** for e-commerce business intelligence and reporting.
-
-`SQL` `Power BI` `Data Modeling` `ETL`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/whozahm3d/E-Commerce-Data-Warehouse-Power-BI-Analytics-Dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 Mock Examination App
-Streamlit-based web platform for student mock tests with **secure authentication**, randomized questions, and real-time scoring.
-
-`Python` `Streamlit` `Authentication`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/whozahm3d/MockExaminationApp)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 Online Unused Medicine Donation
-C# Windows Forms app with **user authentication**, admin approval workflows, inventory tracking, and feedback management.
-
-`C#` `.NET` `Windows Forms` `SQL`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/whozahm3d/Online-Unused-Medicine-Donation)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Flex Management System
-C++ console-based student course management system handling enrollment, course data, validation, and **file-based storage**.
-
-`C++` `OOP` `File I/O`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/whozahm3d/FlexManagementSystem)
-
-</td>
-</tr>
-</table>
+**Cloud** — AWS, Microsoft Azure
 
 ---
 
-## 📫 Let's Connect
+## Connect
 
-<p align="center">
-  <a href="https://github.com/whozahm3d">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/whozahm3d">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linktr.ee/whozahm3d">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/whozahm3d">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+- GitHub: [@whozahm3d](https://github.com/whozahm3d)
+- LinkedIn: [in/whozahm3d](https://linkedin.com/in/whozahm3d)
+- X: [@whozahm3d](https://x.com/whozahm3d)
+- Instagram: [@whozahm3d](https://instagram.com/whozahm3d)
+- Linktree: [linktr.ee/whozahm3d](https://linktr.ee/whozahm3d)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-</p>
+---
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=120&section=footer"/>
+*"Always learning and trying out new ideas."*
