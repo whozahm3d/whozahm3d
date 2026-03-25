@@ -16,6 +16,37 @@ Working across: Python, C++, C#, SQL, PyTorch, Scikit-learn, Streamlit, Power BI
 
 ---
 
+## Skills
+
+**Languages** — Python, C++, C#, SQL
+
+**AI / ML** — Scikit-learn, PyTorch, LLMs, RAG, NLP, Prompt Engineering, Explainable AI (SHAP)
+
+**Data & BI** — Power BI, Pandas, PostgreSQL, SQL Server, ETL, Data Warehousing
+
+**Tools** — Streamlit, Jupyter, VS Code, Google Colab, .NET, Git
+
+**Cloud** — AWS, Microsoft Azure
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whozahm3d&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=whozahm3d&show_icons=true&hide_border=false&border_radius=10&bg_color=0D1117&title_color=38BDF8&icon_color=F472B6&text_color=94A3B8&border_color=1E293B&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whozahm3d&hide_border=false&border_radius=10&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&layout=donut&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whozahm3d&theme=tokyonight" alt="Profile Activity" />
+</p>
+
+---
+
 ## Projects
 
 ### [TrustGuard — AI Fraud Detection](https://github.com/whozahm3d/trustguard-ai-fraud-detection) (2024 - Present)
@@ -53,20 +84,6 @@ Stack: C#, .NET, Windows Forms, SQL.
 Console-based student course management system in C++ handling enrollment, course validation, and persistent file-based data storage. Clean OOP architecture with modular design.
 
 Stack: C++, OOP, File I/O.
-
----
-
-## Skills
-
-**Languages** — Python, C++, C#, SQL
-
-**AI / ML** — Scikit-learn, PyTorch, LLMs, RAG, NLP, Prompt Engineering, Explainable AI (SHAP)
-
-**Data & BI** — Power BI, Pandas, PostgreSQL, SQL Server, ETL, Data Warehousing
-
-**Tools** — Streamlit, Jupyter, VS Code, Google Colab, .NET, Git
-
-**Cloud** — AWS, Microsoft Azure
 
 ---
 
