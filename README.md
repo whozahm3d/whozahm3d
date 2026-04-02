@@ -15,7 +15,7 @@ Interested in **ML engineering, backend systems, and data-driven products**.
 
 ---
 
-## Currently Working On 🚀
+## Currently Working On
 
 * Building **AI-powered applications using LLMs + RAG pipelines**
 * Improving **data pipeline design (ETL + warehousing)** for scalable analytics
@@ -43,9 +43,9 @@ AWS • Microsoft Azure
 
 ---
 
-## Portfolio Highlights ⭐
+## Portfolio Highlights
 
-### 🎬 Movie Recommendation System
+###  Movie Recommendation System
 
 **ML Web Application | Python, Streamlit**
 
@@ -54,11 +54,11 @@ AWS • Microsoft Azure
 * Designed an **interactive web interface** using Streamlit
 * Evaluated model using **precision & recall metrics**
 
-👉 Focus: Recommendation Systems, ML Pipelines, User-Facing AI
+Focus: Recommendation Systems, ML Pipelines, User-Facing AI
 
 ---
 
-### 💊 Unused Medicine Donation System
+### Unused Medicine Donation System
 
 **Full-Stack Application | C#, .NET, SQL**
 
@@ -66,11 +66,11 @@ AWS • Microsoft Azure
 * Designed **admin approval + notification system** for real-world usability
 * Implemented structured database handling with SQL
 
-👉 Focus: Backend Systems, Database Design, Application Logic
+Focus: Backend Systems, Database Design, Application Logic
 
 ---
 
-### 📊 E-Commerce Data Warehouse & Analytics
+### E-Commerce Data Warehouse & Analytics
 
 **Data Engineering Project | PostgreSQL, Power BI**
 
@@ -78,7 +78,7 @@ AWS • Microsoft Azure
 * Built **ETL pipelines** for transforming and loading structured data
 * Created **interactive dashboards** to extract business insights
 
-👉 Focus: Data Engineering, BI, Analytics Systems
+Focus: Data Engineering, BI, Analytics Systems
 
 ---
 
