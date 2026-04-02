@@ -2,8 +2,6 @@
 
 *BS Data Science @ FAST NUCES, Lahore — building at the intersection of ML, data systems, and applied AI*
 
-**[LinkedIn →](https://linkedin.com/in/whozahm3d)** · **[Linktree →](https://linktr.ee/whozahm3d)**
-
 ---
 
 ## Currently
