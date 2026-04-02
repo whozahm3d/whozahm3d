@@ -104,14 +104,9 @@ AWS • Microsoft Azure
 
 ---
 
-## Career Focus 🎯
+## Career Focus
 
-Actively preparing for **software engineering / ML internships** with a focus on:
-
-* Data Structures & Algorithms
-* System Design (ML + Backend)
-* Writing clean, scalable, production-level code
-
+Actively preparing for **AI/ML related internships or jobs.**
 Open to **internships, collaborations, and impactful projects**.
 
 > *"Always learning and building."*
