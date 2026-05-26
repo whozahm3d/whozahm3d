@@ -1,86 +1,53 @@
 # Ali Ahmad
 
-**BS Data Science @ FAST NUCES, Lahore**
-Building scalable ML systems, data pipelines, and applied AI solutions
+**BS Data Science @ FAST NUCES, Lahore**<br>
+Building practical machine learning, data, and backend-driven solutions.
 
 [LinkedIn](https://linkedin.com/in/whozahm3d) • [Linktree](https://linktr.ee/whozahm3d) • [GitHub](https://github.com/whozahm3d)
 
 ---
 
-## About Me
+## Profile Summary
 
-Data Science undergraduate focused on **machine learning, data engineering, and production-ready AI systems**. I build projects that go beyond theory — emphasizing scalability, performance, and real-world impact.
+I am a Data Science undergraduate focused on turning ideas into usable products. My work combines **machine learning**, **data engineering**, and **application development** to build solutions that are structured, scalable, and practical.
 
-Interested in **ML engineering, backend systems, and data-driven products**.
+## What I Have Done
 
----
+- Built machine learning applications for recommendation and intelligent decision support
+- Developed backend and database-driven systems for real-world workflows
+- Designed ETL pipelines, data warehouse models, and analytics dashboards
+- Worked on user-facing tools that connect data, models, and business needs
 
-## Currently Working On
+## How I Work
 
-* Building **AI-powered applications using LLMs + RAG pipelines**
-* Improving **data pipeline design (ETL + warehousing)** for scalable analytics
-* Exploring **ML system design & deployment (Streamlit + cloud)**
-* Strengthening **DSA & problem-solving for technical interviews**
+My approach is usually:
 
----
+**Problem understanding -> data preparation -> model or system design -> implementation -> evaluation -> delivery**
 
-## Technical Skills
+I focus on building solutions that are not only technically correct, but also clear, maintainable, and useful in real scenarios.
 
-**Languages**
-Python • C++ • C# • SQL
+## Selected Projects
 
-**ML / AI**
-Scikit-learn • PyTorch • NLP • LLMs • RAG • Prompt Engineering • Explainable AI (SHAP)
+| Project | What I Built | How I Built It | Stack |
+| --- | --- | --- | --- |
+| **Movie Recommendation System** | A recommendation app for personalized movie suggestions | Combined content-based and collaborative filtering, used feature engineering and cosine similarity, and delivered it through an interactive Streamlit interface | Python, Streamlit, Scikit-learn |
+| **Unused Medicine Donation System** | A full-stack platform for medicine donation and request workflows | Built authentication, admin approval, and request handling modules with a structured SQL-backed system | C#, .NET, SQL |
+| **E-Commerce Data Warehouse & Analytics** | A reporting and analytics solution for business insights | Designed the warehouse schema, created ETL flows, and built Power BI dashboards for analysis | PostgreSQL, Power BI |
 
-**Data Engineering & BI**
-Pandas • PostgreSQL • SQL Server • ETL • Data Warehousing • Power BI
+## Core Skills
 
-**Tools**
-Streamlit • Jupyter • VS Code • Git • .NET
+**Languages:** Python, C++, C#, SQL<br>
+**ML / AI:** Scikit-learn, PyTorch, NLP, LLMs, RAG, Prompt Engineering, SHAP<br>
+**Data:** Pandas, PostgreSQL, SQL Server, ETL, Data Warehousing, Power BI<br>
+**Tools:** Streamlit, Jupyter, VS Code, Git, .NET<br>
+**Cloud:** AWS, Microsoft Azure
 
-**Cloud**
-AWS • Microsoft Azure
+## Current Focus
 
----
-
-## Portfolio Highlights
-
-###  Movie Recommendation System
-
-**ML Web Application | Python, Streamlit**
-
-* Built **content-based + collaborative filtering models** using TMDB dataset
-* Applied **cosine similarity & feature engineering** for personalized recommendations
-* Designed an **interactive web interface** using Streamlit
-* Evaluated model using **precision & recall metrics**
-
-Focus: Recommendation Systems, ML Pipelines, User-Facing AI
-
----
-
-### Unused Medicine Donation System
-
-**Full-Stack Application | C#, .NET, SQL**
-
-* Developed a **multi-module system** with authentication, donation, and request workflows
-* Designed **admin approval + notification system** for real-world usability
-* Implemented structured database handling with SQL
-
-Focus: Backend Systems, Database Design, Application Logic
-
----
-
-### E-Commerce Data Warehouse & Analytics
-
-**Data Engineering Project | PostgreSQL, Power BI**
-
-* Designed a **data warehouse schema** for analytical workloads
-* Built **ETL pipelines** for transforming and loading structured data
-* Created **interactive dashboards** to extract business insights
-
-Focus: Data Engineering, BI, Analytics Systems
-
----
+- Applied AI and LLM-based applications
+- Data pipelines and analytics systems
+- ML system design and deployment
+- Internship and collaboration opportunities in AI, ML, and data
 
 ## GitHub Activity
 
@@ -92,21 +59,10 @@ Focus: Data Engineering, BI, Analytics Systems
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whozahm3d&theme=tokyonight" />
 </p>
 
----
-
 ## Connect
 
-* GitHub: [https://github.com/whozahm3d](https://github.com/whozahm3d)
-* LinkedIn: [https://linkedin.com/in/whozahm3d](https://linkedin.com/in/whozahm3d)
-* X: [https://x.com/whozahm3d](https://x.com/whozahm3d)
-* Instagram: [https://instagram.com/whozahm3d](https://instagram.com/whozahm3d)
-* Linktree: [https://linktr.ee/whozahm3d](https://linktr.ee/whozahm3d)
-
----
-
-## Career Focus
-
-Actively preparing for **AI/ML related internships or jobs.**
-Open to **internships, collaborations, and impactful projects**.
-
-> *"Always learning and building."*
+- GitHub: [github.com/whozahm3d](https://github.com/whozahm3d)
+- LinkedIn: [linkedin.com/in/whozahm3d](https://linkedin.com/in/whozahm3d)
+- X: [x.com/whozahm3d](https://x.com/whozahm3d)
+- Instagram: [instagram.com/whozahm3d](https://instagram.com/whozahm3d)
+- Linktree: [linktr.ee/whozahm3d](https://linktr.ee/whozahm3d)
