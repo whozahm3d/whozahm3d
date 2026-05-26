@@ -26,11 +26,20 @@ My approach is usually:
 
 I focus on building solutions that are not only technically correct, but also clear, maintainable, and useful in real scenarios.
 
+## Project Areas
+
+- **Applied AI & ML Products:** Building recommendation, forecasting, and intelligent decision-support systems with a strong focus on usability and measurable outcomes.
+- **Data Engineering & Analytics:** Designing ETL workflows, warehouse-ready schemas, and reporting layers that improve data quality and business visibility.
+- **Backend & Database Systems:** Developing structured backend logic, authentication flows, and SQL-backed application features for real-world operations.
+- **End-to-End Prototyping:** Taking projects from concept to deployable demos with clear documentation, modular implementation, and maintainable architecture.
+
 ## Selected Projects
 
 | Project | What I Built | How I Built It | Stack |
 | --- | --- | --- | --- |
 | **TrustGuard AI** | An AI-driven trust and risk analysis solution for safer decision-making | Built ML-powered trust scoring workflows and integrated explainable outputs to support actionable insights | Python, ML, AI |
+| **Harris-LK** | A computer vision project combining corner detection and optical flow tracking | Implemented Harris corner detection with Lucas-Kanade tracking to monitor feature points across frames for motion-aware analysis | Python, OpenCV, NumPy |
+| **Mock Examination System** | A digital mock-test platform for exam preparation workflows | Built a structured exam interface with question handling, timed attempts, scoring logic, and result reporting for practice assessments | Python, SQL, Application Development |
 | **PEFT** | A parameter-efficient fine-tuning project for adapting large language models | Implemented PEFT-based tuning pipelines to improve task performance with reduced compute and memory usage | Python, PyTorch, PEFT, LLMs |
 | **Time Series Analysis** | A forecasting and trend analysis project for time-dependent data | Performed preprocessing, feature engineering, and model evaluation to generate reliable temporal insights | Python, Pandas, Time Series |
 | **Movie Recommendation System** | A recommendation app for personalized movie suggestions | Combined content-based and collaborative filtering, used feature engineering and cosine similarity, and delivered it through an interactive Streamlit interface | Python, Streamlit, Scikit-learn |
@@ -51,6 +60,12 @@ I focus on building solutions that are not only technically correct, but also cl
 - Data pipelines and analytics systems
 - ML system design and deployment
 - Internship and collaboration opportunities in AI, ML, and data
+
+## Professional Highlights
+
+- Strong foundation in **ML + data + backend integration** for end-to-end product delivery
+- Consistent focus on **maintainable architecture**, reproducible workflows, and practical deployment
+- Comfortable working in **cross-functional environments** with product, data, and engineering stakeholders
 
 ## GitHub Activity
 
