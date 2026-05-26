@@ -1,7 +1,7 @@
 # Ali Ahmad
 
 **BS Data Science @ FAST NUCES, Lahore**<br>
-Building practical machine learning, data, and backend-driven solutions.
+Building end-to-end machine learning systems, data pipelines, and backend-driven applications.
 
 [LinkedIn](https://linkedin.com/in/whozahm3d) • [Linktree](https://linktr.ee/whozahm3d) • [GitHub](https://github.com/whozahm3d)
 
@@ -9,47 +9,47 @@ Building practical machine learning, data, and backend-driven solutions.
 
 ## Profile Summary
 
-I am a Data Science undergraduate focused on turning ideas into usable products. My work combines **machine learning**, **data engineering**, and **application development** to build solutions that are structured, scalable, and practical.
+I am a Data Science undergraduate focused on building practical, deployable solutions. My work spans **fraud detection**, **computer vision**, **LLM applications**, and **data engineering** — with consistent emphasis on evaluation rigor, clean architecture, and real-world usability.
 
 ## What I Have Done
 
-- Built machine learning applications for recommendation and intelligent decision support
-- Developed backend and database-driven systems for real-world workflows
-- Designed ETL pipelines, data warehouse models, and analytics dashboards
-- Worked on user-facing tools that connect data, models, and business needs
+- Built ML pipelines for fraud detection, recommendation, and forecasting with measurable evaluation metrics
+- Developed backend and database-driven systems handling authentication, workflows, and structured data
+- Designed ETL pipelines, data warehouse schemas, and Power BI dashboards for business reporting
+- Integrated LLM-based features including RAG systems, PEFT fine-tuning, and prompt engineering
 
 ## How I Work
 
 My approach is usually:
 
-**Problem understanding -> data preparation -> model or system design -> implementation -> evaluation -> delivery**
+**Problem understanding → data preparation → model or system design → implementation → evaluation → delivery**
 
-I focus on building solutions that are not only technically correct, but also clear, maintainable, and useful in real scenarios.
+I focus on solutions that are not only technically correct but also reproducible, maintainable, and useful in real scenarios.
 
 ## Project Areas
 
-- **Applied AI & ML Products:** Building recommendation, forecasting, and intelligent decision-support systems with a strong focus on usability and measurable outcomes.
-- **Data Engineering & Analytics:** Designing ETL workflows, warehouse-ready schemas, and reporting layers that improve data quality and business visibility.
-- **Backend & Database Systems:** Developing structured backend logic, authentication flows, and SQL-backed application features for real-world operations.
-- **End-to-End Prototyping:** Taking projects from concept to deployable demos with clear documentation, modular implementation, and maintainable architecture.
+- **Applied AI & ML Products:** Fraud detection, recommendation, and forecasting systems built with rigorous evaluation (AUPRC, recall, SHAP explainability) and deployed via Streamlit or HuggingFace.
+- **Data Engineering & Analytics:** ETL workflows, star-schema warehouse designs, and reporting layers that turn raw transactional data into actionable dashboards.
+- **Backend & Database Systems:** Structured backend logic, authentication flows, admin approval pipelines, and SQL-backed application features.
+- **End-to-End Prototyping:** From concept to deployable demo with clear documentation, modular code, and maintainable architecture.
 
 ## Selected Projects
 
 | Project | What I Built | How I Built It | Stack |
 | --- | --- | --- | --- |
-| **TrustGuard AI** | An AI-driven trust and risk analysis solution for safer decision-making | Built ML-powered trust scoring workflows and integrated explainable outputs to support actionable insights | Python, ML, AI |
-| **Harris-LK** | A computer vision project combining corner detection and optical flow tracking | Implemented Harris corner detection with Lucas-Kanade tracking to monitor feature points across frames for motion-aware analysis | Python, OpenCV, NumPy |
-| **Mock Examination System** | A digital mock-test platform for exam preparation workflows | Built a structured exam interface with question handling, timed attempts, scoring logic, and result reporting for practice assessments | Python, SQL, Application Development |
-| **PEFT** | A parameter-efficient fine-tuning project for adapting large language models | Implemented PEFT-based tuning pipelines to improve task performance with reduced compute and memory usage | Python, PyTorch, PEFT, LLMs |
-| **Time Series Analysis** | A forecasting and trend analysis project for time-dependent data | Performed preprocessing, feature engineering, and model evaluation to generate reliable temporal insights | Python, Pandas, Time Series |
-| **Movie Recommendation System** | A recommendation app for personalized movie suggestions | Combined content-based and collaborative filtering, used feature engineering and cosine similarity, and delivered it through an interactive Streamlit interface | Python, Streamlit, Scikit-learn |
-| **Unused Medicine Donation System** | A full-stack platform for medicine donation and request workflows | Built authentication, admin approval, and request handling modules with a structured SQL-backed system | C#, .NET, SQL |
-| **E-Commerce Data Warehouse & Analytics** | A reporting and analytics solution for business insights | Designed the warehouse schema, created ETL flows, and built Power BI dashboards for analysis | PostgreSQL, Power BI |
+| **TrustGuard AI** | A fraud detection pipeline on the PaySim dataset with explainable outputs | Four models (LR, RF, XGBoost, Neural Network), SMOTE for 0.13% class imbalance, K-Fold CV, threshold optimization, SHAP explainability, and a RAG module grounded in State Bank of Pakistan regulations | Python, Scikit-learn, XGBoost, PyTorch, RAG |
+| **Harris-LK** | A computer vision tracker combining corner detection and optical flow | Harris corner detection with Lucas-Kanade tracking, forward-backward error filtering, adaptive redetection on feature loss, tuned for real-world handheld footage | Python, OpenCV, NumPy |
+| **Mock Examination System** | A digital mock-test platform for structured exam workflows | Built question handling, timed attempt logic, scoring, and result reporting with a SQL-backed schema | Python, SQL |
+| **PEFT** | Parameter-efficient fine-tuning of large language models | Implemented LoRA-based tuning pipelines to improve task-specific performance with reduced compute and memory usage | Python, PyTorch, HuggingFace, PEFT |
+| **Time Series Analysis** | A forecasting and trend analysis project for temporal data | Preprocessing, feature engineering, and model evaluation to generate reliable temporal predictions | Python, Pandas |
+| **Movie Recommendation System** | A hybrid recommendation app for personalized movie suggestions | Combined content-based and collaborative filtering using cosine similarity, delivered via an interactive Streamlit interface | Python, Streamlit, Scikit-learn |
+| **Unused Medicine Donation System** | A full-stack platform for medicine donation and request workflows | Built authentication, admin approval, and donor-recipient matching with a structured SQL-backed schema | C#, .NET, SQL |
+| **E-Commerce Data Warehouse & Analytics** | A reporting and analytics solution for business insights | Designed star schema, built ETL flows from raw transactional data, and created Power BI dashboards | PostgreSQL, Power BI |
 
 ## Core Skills
 
 **Languages:** Python, C++, C#, SQL<br>
-**ML / AI:** Scikit-learn, PyTorch, NLP, LLMs, RAG, Prompt Engineering, SHAP<br>
+**ML / AI:** Scikit-learn, PyTorch, XGBoost, NLP, LLMs, RAG, PEFT, Prompt Engineering, SHAP<br>
 **Data:** Pandas, PostgreSQL, SQL Server, ETL, Data Warehousing, Power BI<br>
 **Tools:** Streamlit, Jupyter, VS Code, Git, .NET<br>
 **Cloud:** AWS, Microsoft Azure
@@ -63,9 +63,9 @@ I focus on building solutions that are not only technically correct, but also cl
 
 ## Professional Highlights
 
-- Strong foundation in **ML + data + backend integration** for end-to-end product delivery
-- Consistent focus on **maintainable architecture**, reproducible workflows, and practical deployment
-- Comfortable working in **cross-functional environments** with product, data, and engineering stakeholders
+- End-to-end ML experience: data preparation, modeling, evaluation, explainability, and deployment
+- Strong focus on **evaluation rigor** — AUPRC, recall, threshold tuning, and ablation studies over surface-level accuracy
+- Comfortable working across the stack: model training, backend logic, database design, and user-facing interfaces
 
 ## GitHub Activity
 
