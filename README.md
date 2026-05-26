@@ -30,6 +30,9 @@ I focus on building solutions that are not only technically correct, but also cl
 
 | Project | What I Built | How I Built It | Stack |
 | --- | --- | --- | --- |
+| **TrustGuard AI** | An AI-driven trust and risk analysis solution for safer decision-making | Built ML-powered trust scoring workflows and integrated explainable outputs to support actionable insights | Python, ML, AI |
+| **PEFT** | A parameter-efficient fine-tuning project for adapting large language models | Implemented PEFT-based tuning pipelines to improve task performance with reduced compute and memory usage | Python, PyTorch, PEFT, LLMs |
+| **Time Series Analysis** | A forecasting and trend analysis project for time-dependent data | Performed preprocessing, feature engineering, and model evaluation to generate reliable temporal insights | Python, Pandas, Time Series |
 | **Movie Recommendation System** | A recommendation app for personalized movie suggestions | Combined content-based and collaborative filtering, used feature engineering and cosine similarity, and delivered it through an interactive Streamlit interface | Python, Streamlit, Scikit-learn |
 | **Unused Medicine Donation System** | A full-stack platform for medicine donation and request workflows | Built authentication, admin approval, and request handling modules with a structured SQL-backed system | C#, .NET, SQL |
 | **E-Commerce Data Warehouse & Analytics** | A reporting and analytics solution for business insights | Designed the warehouse schema, created ETL flows, and built Power BI dashboards for analysis | PostgreSQL, Power BI |
