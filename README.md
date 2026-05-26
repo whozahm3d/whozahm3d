@@ -38,11 +38,11 @@ I focus on solutions that are not only technically correct but also reproducible
 | Project | What I Built | How I Built It | Stack |
 | --- | --- | --- | --- |
 | **TrustGuard AI** | A fraud detection pipeline on the PaySim dataset with explainable outputs | Four models (LR, RF, XGBoost, Neural Network), SMOTE for 0.13% class imbalance, K-Fold CV, threshold optimization, SHAP explainability, and a RAG module grounded in State Bank of Pakistan regulations | Python, Scikit-learn, XGBoost, PyTorch, RAG |
-| **Harris-LK** | A computer vision tracker combining corner detection and optical flow | Harris corner detection with Lucas-Kanade tracking, forward-backward error filtering, adaptive redetection on feature loss, tuned for real-world handheld footage | Python, OpenCV, NumPy |
-| **Mock Examination System** | A digital mock-test platform for structured exam workflows | Built question handling, timed attempt logic, scoring, and result reporting with a SQL-backed schema | Python, SQL |
 | **PEFT** | Parameter-efficient fine-tuning of large language models | Implemented LoRA-based tuning pipelines to improve task-specific performance with reduced compute and memory usage | Python, PyTorch, HuggingFace, PEFT |
 | **Time Series Analysis** | A forecasting and trend analysis project for temporal data | Preprocessing, feature engineering, and model evaluation to generate reliable temporal predictions | Python, Pandas |
 | **Movie Recommendation System** | A hybrid recommendation app for personalized movie suggestions | Combined content-based and collaborative filtering using cosine similarity, delivered via an interactive Streamlit interface | Python, Streamlit, Scikit-learn |
+| **Harris-LK** | A computer vision tracker combining corner detection and optical flow | Harris corner detection with Lucas-Kanade tracking, forward-backward error filtering, adaptive redetection on feature loss, tuned for real-world handheld footage | Python, OpenCV, NumPy |
+| **Mock Examination System** | A digital mock-test platform for structured exam workflows | Built question handling, timed attempt logic, scoring, and result reporting with a SQL-backed schema | Python, SQL |
 | **Unused Medicine Donation System** | A full-stack platform for medicine donation and request workflows | Built authentication, admin approval, and donor-recipient matching with a structured SQL-backed schema | C#, .NET, SQL |
 | **E-Commerce Data Warehouse & Analytics** | A reporting and analytics solution for business insights | Designed star schema, built ETL flows from raw transactional data, and created Power BI dashboards | PostgreSQL, Power BI |
 
@@ -53,6 +53,28 @@ I focus on solutions that are not only technically correct but also reproducible
 **Data:** Pandas, PostgreSQL, SQL Server, ETL, Data Warehousing, Power BI<br>
 **Tools:** Streamlit, Jupyter, VS Code, Git, .NET<br>
 **Cloud:** AWS, Microsoft Azure
+
+## Certifications
+
+**Specializations**
+
+| Certificate | Issuer | Date |
+| --- | --- | --- |
+| [Prompt Engineering Specialization](https://coursera.org/verify/specialization/3SNOMT7IMMZL) | Vanderbilt University | Aug 2025 |
+| [Generative AI Assistants Specialization](https://coursera.org/verify/specialization/S7VFUZT5EYW8) | Vanderbilt University | Aug 2025 |
+| [Google AI Essentials](https://coursera.org/verify/specialization/KRQ3HQH3Y8EU) | Google | Jul 2025 |
+| [Google Prompting Essentials](https://coursera.org/verify/specialization/X8MUHAB34YY2) | Google | Jul 2025 |
+| [Generative AI for Educators](https://coursera.org/verify/specialization/NT1WGRLPZRBK) | IBM | Jul 2025 |
+
+**Courses**
+
+| Certificate | Issuer | Date |
+| --- | --- | --- |
+| [Working with the OpenAI API](https://www.datacamp.com) | DataCamp | Nov 2025 |
+| [Prompt Engineering with the OpenAI API](https://www.datacamp.com) | DataCamp | Nov 2025 |
+| [Feature Engineering for ML in Python](https://www.datacamp.com) | DataCamp | Oct 2025 |
+| [Introduction to Deep Learning with PyTorch](https://www.datacamp.com) | DataCamp | Oct 2025 |
+| [AI For Everyone](https://coursera.org/verify/HXWVU76FUSS7) | DeepLearning.AI | Jul 2025 |
 
 ## Current Focus
 
@@ -84,3 +106,7 @@ I focus on solutions that are not only technically correct but also reproducible
 - X: [x.com/whozahm3d](https://x.com/whozahm3d)
 - Instagram: [instagram.com/whozahm3d](https://instagram.com/whozahm3d)
 - Linktree: [linktr.ee/whozahm3d](https://linktr.ee/whozahm3d)
+
+---
+
+<p align="center"><i>"The gap between an idea and a working system is where I live."</i></p>
