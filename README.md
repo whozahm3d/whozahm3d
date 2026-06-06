@@ -93,26 +93,17 @@ I focus on solutions that are not only technically correct but also reproducible
 
 ## GitHub Activity
 
-<!-- Trophy Row -->
+<!-- These images are auto-generated every 12 hours by GitHub Actions (.github/workflows/generate-stats.yml) -->
+<!-- They are stored as static SVG files in /assets/ — so they always load instantly -->
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whozahm3d&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+  <img src="assets/stats.svg" alt="GitHub Stats" />
 </p>
 
-<!-- Stats Row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whozahm3d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165" />
+  <img src="assets/languages.svg" alt="Top Languages" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whozahm3d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<!-- Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=whozahm3d&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whozahm3d&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="assets/calendar.svg" alt="Contribution Calendar" />
 </p>
 
 ---
