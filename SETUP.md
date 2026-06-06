@@ -3,17 +3,19 @@
 
 ---
 
-### Step 1 — Create a Personal Access Token
+### Step 1 — Create a Fine-Grained Personal Access Token
 
-1. Go to **GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)**
-2. Click **"Generate new token (classic)"**
+1. Go to **GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens**
+2. Click **"Generate new token"**
 3. Name it: `METRICS_TOKEN`
 4. Set expiration: **No expiration** (or 1 year)
-5. Select these scopes:
-   - ✅ `read:user`
-   - ✅ `repo` (needed to count private commits)
-   - ✅ `read:org`
-6. Click **Generate token** — copy it immediately, you won't see it again
+5. Set repository access to this repository (`whozahm3d/whozahm3d`)
+6. Grant repository permissions:
+   - ✅ **Contents: Read and write**
+7. Grant account permissions:
+   - ✅ **Profile: Read-only**
+   - ✅ **Metadata: Read-only**
+8. Click **Generate token** — copy it immediately, you won't see it again
 
 ---
 
@@ -70,6 +72,7 @@ No maintenance needed.
 
 | Problem | Fix |
 |---|---|
-| Action fails with "403 forbidden" | Token scopes are wrong — regenerate with `read:user`, `repo`, `read:org` |
+| Action fails with "legacy or invalid token" | Regenerate a **fine-grained** PAT (`github_pat_...`) and save it as `METRICS_TOKEN` |
+| Action fails with "403 forbidden" | Token permissions are wrong — ensure **Contents: Read and write** plus profile/metadata read access |
 | Action fails with "Resource not accessible" | Go to repo Settings → Actions → General → set Workflow permissions to "Read and write" |
 | SVGs show but look wrong | Run the workflow again manually; first run sometimes has caching issues |
