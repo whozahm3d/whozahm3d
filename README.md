@@ -111,3 +111,7 @@ I focus on solutions that are not only technically correct but also reproducible
 ## Connect
 
 [GitHub](https://github.com/whozahm3d) • [LinkedIn](https://linkedin.com/in/whozahm3d) • [X](https://x.com/whozahm3d) • [Instagram](https://instagram.com/whozahm3d) • [Linktree](https://linktr.ee/whozahm3d)
+
+---
+
+<p align="center"><i>"The gap between an idea and a working system is where I live."</i></p>
