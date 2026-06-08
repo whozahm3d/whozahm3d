@@ -123,9 +123,6 @@ I focus on solutions that are not only technically correct but also reproducible
 ---
 
 ## Pinned Repositories
-
-| | |
-|---|---|
 | [![TrustGuard AI](https://github-readme-stats.vercel.app/api/pin/?username=whozahm3d&repo=trustguard-ai-fraud-detection&theme=tokyonight&hide_border=true)](https://github.com/whozahm3d/trustguard-ai-fraud-detection) | [![Harris-LK Tracker](https://github-readme-stats.vercel.app/api/pin/?username=whozahm3d&repo=harris-lk-vehicle-tracker&theme=tokyonight&hide_border=true)](https://github.com/whozahm3d/harris-lk-vehicle-tracker) |
 | [![PEFT Research](https://github-readme-stats.vercel.app/api/pin/?username=whozahm3d&repo=efficiency-vs-performance-peft-research&theme=tokyonight&hide_border=true)](https://github.com/whozahm3d/efficiency-vs-performance-peft-research) | [![Crop Price Analysis](https://github-readme-stats.vercel.app/api/pin/?username=whozahm3d&repo=pk-crop-prices-analysis-and-trend-discovery&theme=tokyonight&hide_border=true)](https://github.com/whozahm3d/pk-crop-prices-analysis-and-trend-discovery) |
 
