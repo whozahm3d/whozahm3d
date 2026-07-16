@@ -3,31 +3,22 @@
 
 ---
 
-### Step 1 — Create a Fine-Grained Personal Access Token
-
-1. Go to **GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens**
-2. Click **"Generate new token"**
-3. Name it: `METRICS_TOKEN`
-4. Set expiration: **No expiration** (or 1 year)
-5. Set repository access to this repository (`whozahm3d/whozahm3d`)
-6. Grant repository permissions:
-   - ✅ **Contents: Read and write**
-7. Grant account permissions:
-   - ✅ **Profile: Read-only**
-   - ✅ **Metadata: Read-only**
-8. Click **Generate token** — copy it immediately, you won't see it again
+> This workflow now uses the built-in `${{ github.token }}` and does not require a `METRICS_TOKEN` secret.
 
 ---
 
-### Step 2 — Add the Token as a Repository Secret
+### Step 1 — Enable Workflow Write Permissions
 
-1. Go to your **`whozahm3d` profile repository** on GitHub
-   > This is the special repo with the same name as your username: `github.com/whozahm3d/whozahm3d`
-2. Go to **Settings → Secrets and variables → Actions**
-3. Click **"New repository secret"**
-4. Name: `METRICS_TOKEN`
-5. Value: paste the token you copied
-6. Click **Add secret**
+1. Go to your repository: `whozahm3d/whozahm3d`
+2. Open **Settings → Actions → General**
+3. Under **Workflow permissions**, select **Read and write permissions**
+4. Save changes
+
+---
+
+### Step 2 — No Repository Secret Required
+
+This workflow uses the built-in `${{ github.token }}` provided by GitHub Actions, so you do **not** need to create a `METRICS_TOKEN` secret.
 
 ---
 
@@ -72,7 +63,7 @@ No maintenance needed.
 
 | Problem | Fix |
 |---|---|
-| Action fails with "legacy or invalid token" | Regenerate a **fine-grained** PAT (`github_pat_...`) and save it as `METRICS_TOKEN` |
-| Action fails with "403 forbidden" | Token permissions are wrong — ensure **Contents: Read and write** plus profile/metadata read access |
+| Action fails with "Bad credentials" | Ensure repository **Settings → Actions → General → Workflow permissions** is set to **Read and write permissions** |
+| Action fails with "403 forbidden" | Ensure workflow permissions are set to **Read and write permissions** |
 | Action fails with "Resource not accessible" | Go to repo Settings → Actions → General → set Workflow permissions to "Read and write" |
 | SVGs show but look wrong | Run the workflow again manually; first run sometimes has caching issues |
