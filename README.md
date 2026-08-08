@@ -53,7 +53,6 @@ I focus on solutions that are not only technically correct but also reproducible
 
 | Project | What I Built | Stack | Highlights |
 |---|---|---|---|
-| **[TrustGuard AI](https://github.com/whozahm3d/trustguard-ai-fraud-detection)** | Fraud detection pipeline on PaySim with explainable outputs and regulatory grounding | Python, XGBoost, PyTorch, RAG, ChromaDB | 4 models, SMOTE for 0.13% class imbalance, SHAP explainability, RAG grounded in SBP regulations, deployed on Streamlit |
 | **[PEFT Comparative Study](https://github.com/whozahm3d/efficiency-vs-performance-peft-research)** | Parameter-efficient fine-tuning analysis across multiple LLM adaptation methods | Python, PyTorch, HuggingFace, PEFT | LoRA-based tuning pipelines, multi-seed statistical evaluation, McNemar significance testing |
 | **[Time Series Data Analysis & Trend Discovery in Pakistan Crop Prices](https://github.com/whozahm3d/pk-crop-prices-analysis-and-trend-discovery)** | End-to-end time-series forecasting and anomaly detection on 53 CSVs | Python, Pandas, Scikit-learn | 9 models benchmarked; Linear Regression ranked first by RMSE; lag_1 identified as dominant universal predictor |
 | **[Harris-LK Object Tracker](https://github.com/whozahm3d/harris-lk-vehicle-tracker)** | Classical single-object tracker combining corner detection and optical flow | Python, OpenCV, NumPy | Harris + pyramidal LK, forward-backward error filtering, adaptive redetection; 54-page technical report |
